@@ -1,0 +1,12 @@
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\CodeFlow.GeminiApi.exe
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\CodeFlow.GeminiApi.dll
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\CodeFlow.GeminiApi.deps.json
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\CodeFlow.GeminiApi.runtimeconfig.json
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\CodeFlow.GeminiApi.pdb
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Refugio Diaz\source\repos\CodeFlow.GeminiApi\CodeFlow.GeminiApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

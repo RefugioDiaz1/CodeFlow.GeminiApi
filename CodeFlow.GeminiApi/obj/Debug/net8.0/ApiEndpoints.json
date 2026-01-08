@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "CodeFlow.GeminiApi.Controllers.WhatautoController",
+    "Method": "Webhook",
+    "RelativePath": "api/whatauto/webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

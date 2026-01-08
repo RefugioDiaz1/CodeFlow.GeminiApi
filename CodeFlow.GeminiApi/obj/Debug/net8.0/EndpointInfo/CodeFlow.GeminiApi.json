@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CodeFlow.GeminiApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/whatauto/webhook": {
+      "post": {
+        "tags": [
+          "Whatauto"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

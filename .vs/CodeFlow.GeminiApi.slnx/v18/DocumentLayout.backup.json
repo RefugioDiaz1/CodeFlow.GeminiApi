@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|c:\\users\\refugio diaz\\source\\repos\\codeflow.geminiapi\\codeflow.geminiapi\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|solutionrelative:codeflow.geminiapi\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|c:\\users\\refugio diaz\\source\\repos\\codeflow.geminiapi\\codeflow.geminiapi\\services\\genaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|solutionrelative:codeflow.geminiapi\\services\\genaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|c:\\users\\refugio diaz\\source\\repos\\codeflow.geminiapi\\codeflow.geminiapi\\services\\igenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|solutionrelative:codeflow.geminiapi\\services\\igenaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|c:\\users\\refugio diaz\\source\\repos\\codeflow.geminiapi\\codeflow.geminiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738B6B3C-AB22-307F-A11D-78B83DBBE022}|CodeFlow.GeminiApi\\CodeFlow.GeminiApi.csproj|solutionrelative:codeflow.geminiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Services\\GenAiService.cs",
+              "RelativeDocumentMoniker": "CodeFlow.GeminiApi\\Services\\GenAiService.cs",
+              "ToolTip": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Services\\GenAiService.cs",
+              "RelativeToolTip": "CodeFlow.GeminiApi\\Services\\GenAiService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAmwJ4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:31:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AiController.cs",
+              "DocumentMoniker": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Controllers\\AiController.cs",
+              "RelativeDocumentMoniker": "CodeFlow.GeminiApi\\Controllers\\AiController.cs",
+              "ToolTip": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Controllers\\AiController.cs",
+              "RelativeToolTip": "CodeFlow.GeminiApi\\Controllers\\AiController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:31:02.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFlow.GeminiApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Program.cs",
+              "RelativeToolTip": "CodeFlow.GeminiApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T21:06:15.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenAiService.cs",
+              "DocumentMoniker": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Services\\IGenAiService.cs",
+              "RelativeDocumentMoniker": "CodeFlow.GeminiApi\\Services\\IGenAiService.cs",
+              "ToolTip": "C:\\Users\\Refugio Diaz\\source\\repos\\CodeFlow.GeminiApi\\CodeFlow.GeminiApi\\Services\\IGenAiService.cs",
+              "RelativeToolTip": "CodeFlow.GeminiApi\\Services\\IGenAiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T19:24:26.928Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

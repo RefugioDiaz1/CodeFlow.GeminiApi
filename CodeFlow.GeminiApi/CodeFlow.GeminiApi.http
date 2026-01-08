@@ -1,0 +1,6 @@
+@CodeFlow.GeminiApi_HostAddress = http://localhost:5203
+
+GET {{CodeFlow.GeminiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
